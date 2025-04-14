@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mohan Sai Pandeti  
 
 -  I'm passionate about **Data Analysis**  
--  Currently learning **SQL, Power BI, Python, and Advanced Data Analytics**  
+-  Currently learning **SQL, Power BI, Excel, Python, and Advanced Data Analytics**  
 -  Exploring **Data Science in real-world projects**  
 -  Looking to collaborate on **Data Science projects**  
 -  Reach me at **[pandetimohansai@gmail.com](mailto:pandetimohansai@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/mohansaipandeti/)**  
