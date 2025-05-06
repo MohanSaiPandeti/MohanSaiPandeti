@@ -15,16 +15,16 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 ## 💻 Tech Stack & Tools
 
 ### **Data Analysis & Visualization**  
-- [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi)](https://www.microsoft.com/en-us/power-bi)  
-[![Excel](https://img.shields.io/badge/-Excel-Advanced-yellow?logo=microsoft-excel&color=green)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
+- [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
+- [![Excel](https://img.shields.io/badge/-Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### **Programming Languages**  
-- [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)](https://www.python.org/)  
-- [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql)](https://www.mysql.com/)
+- [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=for-the-badge)](https://www.python.org/)  
+- [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
 
 ### **Data Engineering & Management**  
-- [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql)](https://www.mysql.com/)
+- [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
+
 
 ---
 
