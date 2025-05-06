@@ -6,7 +6,7 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 [![Gmail](https://img.shields.io/badge/Gmail-pandetimohansai@gmail.com-red?logo=gmail)](mailto:pandetimohansai@gmail.com)  
 [![Status](https://img.shields.io/badge/Data%20Analyst-In%20Progress-success)](https://www.linkedin.com/in/mohansaipandeti)  
 [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi)](https://www.microsoft.com/en-us/power-bi)  
-[![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)](https://www.python.org/)  
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql)](https://www.mysql.com/)
 
 ---
