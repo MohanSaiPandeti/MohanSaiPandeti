@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mohan Sai Pandeti!
 
-Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and currently diving into **SQL**, **Power BI**, **Excel**, **Python**, and **Advanced Data Analytics**. I’m exploring **Data Science** through real-world projects and enjoy collaborating on exciting **Data Science** challenges! 📊
+Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and currently diving into **SQL**, **Power BI**, **Excel**, **Python**, and **Advanced Data Analytics**. I’m exploring **Data Science** through real-world projects and enjoy collaborating on exciting **Data Science** challenges! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohan%20Sai%20Pandeti-blue?logo=linkedin)](https://www.linkedin.com/in/mohansaipandeti)  
 [![Gmail](https://img.shields.io/badge/Gmail-pandetimohansai@gmail.com-red?logo=gmail)](mailto:pandetimohansai@gmail.com)  
@@ -8,7 +8,7 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi)](https://www.microsoft.com/en-us/power-bi)  
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)](https://www.python.org/)  
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql)](https://www.mysql.com/)  
-[![Excel](https://img.shields.io/badge/-Excel-Intermediate?logo=microsoft-excel&color=green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel](https://img.shields.io/badge/-Excel-Advanced-yellow?logo=microsoft-excel&color=green)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ---
 
@@ -56,4 +56,4 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 
 ---
 
-**Thanks for visiting! Let’s turn data into decisions, one insight at a time 📈💡**
+**Thanks for visiting! Let’s turn data into decisions, one insight at a time 💡**
