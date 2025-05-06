@@ -8,7 +8,7 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi)](https://www.microsoft.com/en-us/power-bi)  
 [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)](https://www.python.org/)  
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql)](https://www.mysql.com/)  
-[![Excel](https://img.shields.io/badge/-Excel-Advanced-yellow?logo=microsoft-excel&color=green)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ---
 
