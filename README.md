@@ -5,10 +5,7 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohan%20Sai%20Pandeti-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mohansaipandeti)  
 [![Gmail](https://img.shields.io/badge/Gmail-pandetimohansai@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:pandetimohansai@gmail.com)  
 [![Status](https://img.shields.io/badge/Data%20Analyst-In%20Progress-success?style=for-the-badge)](https://www.linkedin.com/in/mohansaipandeti)  
-[![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
-[![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=for-the-badge)](https://www.python.org/)  
-[![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)  
-[![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
 
 ---
 
