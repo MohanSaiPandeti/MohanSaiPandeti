@@ -16,7 +16,7 @@ Welcome to my little space on GitHub! I'm passionate about **Data Analysis** and
 
 ### **Data Analysis & Visualization**  
 - [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
-- [![Excel](https://img.shields.io/badge/-Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
+- [![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### **Programming Languages**  
 - [![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&style=for-the-badge)](https://www.python.org/)  
