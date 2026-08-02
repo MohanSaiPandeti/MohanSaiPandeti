@@ -1,39 +1,40 @@
-# Hi, I'm Mohan Sai Pandeti
+# Mohan Sai Pandeti
 
-Computer Science graduate specializing in Data Science with an interest in Backend Development, Software Engineering, and scalable systems.
+```java
+class Developer {
 
+    String role = "Backend Developer";
 
+    String[] languages = {
+        "Java",
+        "Python",
+        "SQL"
+    };
 
-## Tech Stack
+    String[] backend = {
+        "Spring Boot",
+        "REST APIs",
+        "PostgreSQL"
+    };
 
-**Languages**
+    String[] currentlyLearning = {
+        "System Design",
+        "Microservices",
+        "Data Structures & Algorithms"
+    };
+}
+```
 
-Java • Python • SQL
+## Projects
 
-**Backend**
+- Event Ticketing Platform
+- YOLO Plant Disease Detection
+- Data Career Insights
 
-Spring Boot • REST APIs • Maven
+## Links
 
-**Databases**
+Portfolio  : https://mohansai.me
 
-PostgreSQL • MySQL
+LinkedIn  : https://linkedin.com/in/mohansaipandeti
 
-**Tools**
-
-Git • GitHub • IntelliJ IDEA • VS Code • Docker • Postman
-
-
-
-
-
-## Connect
-
-Portfolio: https://mohansai.me
-
-LinkedIn: https://linkedin.com/in/mohansaipandeti
-
-Email: pandetimohansai@gmail.com
-
----
-
-Thanks for visiting my profile. Feel free to explore my repositories.
+Email     : pandetimohansai@gmail.com
