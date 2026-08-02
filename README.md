@@ -1,15 +1,8 @@
-# Mohan Sai Pandeti
 
-```
-Software Engineer
-
-Building.
-Learning.
-Improving.
-```
-
-Java • Python • SQL • Spring Boot • PostgreSQL
-
-Currently exploring software architecture, system design, and scalable applications.
-
-Portfolio - [mohansaipandeti.me](https://mohansaipandeti.me/)
+ 
+### Software Engineer
+Tech Stack: Java, Python, SQL, Spring Boot, PostgreSQL
+ 
+Building scalable applications.
+ 
+[Portfolio](https://mohansaipandeti.me) . [LinkedIn](https://linkedin.com/in/mohansaipandeti) 
