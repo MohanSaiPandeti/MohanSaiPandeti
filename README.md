@@ -1,5 +1,7 @@
-> **Tech Stack:** Java, Python, SQL, Spring Boot, PostgreSQL
+```
+Tech Stack: Java, Python, SQL, Spring Boot, PostgreSQL
+```
 
-> **Course Work:** Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
-
-[Portfolio](https://mohansaipandeti.me) . [LinkedIn](https://linkedin.com/in/mohansaipandeti)
+```
+Course Work: Data Structures and Algorithms, Object Oriented Programming, Database Management Systems, Operating Systems, Computer Networks
+```
