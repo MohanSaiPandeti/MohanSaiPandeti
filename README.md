@@ -12,4 +12,4 @@ Java • Python • SQL • Spring Boot • PostgreSQL
 
 Currently exploring software architecture, system design, and scalable applications.
 
-Portfolio — mohansai.me
+Portfolio - [mohansaipandeti.me](https://mohansaipandeti.me/)
