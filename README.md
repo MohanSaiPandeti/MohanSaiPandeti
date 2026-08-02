@@ -1,40 +1,15 @@
 # Mohan Sai Pandeti
 
-```java
-class Developer {
+```
+Software Engineer
 
-    String role = "Backend Developer";
-
-    String[] languages = {
-        "Java",
-        "Python",
-        "SQL"
-    };
-
-    String[] backend = {
-        "Spring Boot",
-        "REST APIs",
-        "PostgreSQL"
-    };
-
-    String[] currentlyLearning = {
-        "System Design",
-        "Microservices",
-        "Data Structures & Algorithms"
-    };
-}
+Building.
+Learning.
+Improving.
 ```
 
-## Projects
+Java • Python • SQL • Spring Boot • PostgreSQL
 
-- Event Ticketing Platform
-- YOLO Plant Disease Detection
-- Data Career Insights
+Currently exploring software architecture, system design, and scalable applications.
 
-## Links
-
-Portfolio  : https://mohansai.me
-
-LinkedIn  : https://linkedin.com/in/mohansaipandeti
-
-Email     : pandetimohansai@gmail.com
+Portfolio — mohansai.me
